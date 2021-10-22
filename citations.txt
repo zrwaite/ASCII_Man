@@ -1,0 +1,5 @@
+Bo. “Use Dot Syntax to Access Dictionary Key - Python Tips.” DEV Community, DEV Community, 14 Feb. 2020, dev.to/0xbf/use-dot-syntax-to-access-dictionary-key-python-tips-10ec. 
+I used the above website to make a dot syntax in python
+
+https://pypi.org/project/pynput/
+I used the above documentation to take keyboard input
